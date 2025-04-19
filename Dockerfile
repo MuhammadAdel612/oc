@@ -1,2 +1,2 @@
-from registry.access.redhat.com/rhel7-mysql57
+from registry.redhat.io/rhscl/httpd-24-rhel7
 cmd sleep 3600
