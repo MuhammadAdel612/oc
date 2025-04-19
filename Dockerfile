@@ -1,2 +1,2 @@
-from docker.io/library/alpine:latest
+from alpine:latest
 cmd sleep 3600
