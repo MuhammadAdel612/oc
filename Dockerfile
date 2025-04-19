@@ -1,2 +1,2 @@
-from registry.redhat.io/rhscl/httpd-24-rhel7
+from docker.io/library/alpine:latest
 cmd sleep 3600
